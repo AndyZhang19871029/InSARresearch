@@ -1,0 +1,29 @@
+# main links links
+main:
+    
+  - title: "People"
+    url: /People/
+
+  - title: "Research"
+    url: /publications/   
+
+  - title: "Software"
+    url: /software/ 
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Earthquakes"
+    url: /Earthquakes/
+    
+  - title: "Volcanos"
+    url: /Volcanos/
+    
+  - title: "Landslides"
+    url: /Landslides/
+
+  - title: "Urban and infrastructure"
+    url: /Urban and infrastructure/
